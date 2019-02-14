@@ -1,0 +1,21 @@
+#atas {
+    margin-top: 20px;
+}
+
+#ata {
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
+
+#menu {
+    float: left;
+    background-color: green ;
+}
+
+.kotak {
+    height: 178px;
+    margin: 15px auto;
+    border-radius: 5px;
+    border: 1px solid #EBEBEB;
+}
